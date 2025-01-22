@@ -8,7 +8,7 @@
 - Implementación de roles para gestionar los permisos y accesos.
 - Endpoints organizados para soportar operaciones CRUD, autenticación y gestión de usuarios.
 
-### Backend:
+### Frontend:
 
 - Desarrollado con React, consumiendo los endpoints de la API.
 - Uso de rutas para gestionar la navegación entre las diferentes vistas.
